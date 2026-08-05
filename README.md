@@ -92,7 +92,7 @@ This allowed customers to stay updated without needing to call the business for 
 
 ## Example Customer Texts
 
-<img src="screenshots/Example%20Texts.png" width="400">
+<img src="screenshots/Example%20Text%20Messages.png" width="350">
 
 Examples of automated messages sent to customers during the repair process.
 
